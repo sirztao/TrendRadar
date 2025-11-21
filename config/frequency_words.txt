@@ -1,5 +1,20 @@
-胖东来
-于东来
+Qwen
+千问
+阿里
+达摩院
+
+百度
+PaddleOCR
+PaddlePaddle
+文心
+
+MCP
+RAG
+Ollama
+LMStudio
+
+方舟子
+何祚庥
 
 DeepSeek
 梁文锋
@@ -11,12 +26,6 @@ HarmonyOS
 
 比亚迪
 王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
 
 智元
 灵犀
@@ -44,6 +53,8 @@ America
 
 微软
 Microsoft
+Office
+Windows
 
 英伟达
 NVIDIA
@@ -80,13 +91,12 @@ ai
 美国
 日本
 韩国
+台湾
 
 芯片
 光刻机
 
 科技
-
-核能
 
 水电站
 雅鲁藏布江
